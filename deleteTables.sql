@@ -1,0 +1,33 @@
+DELETE FROM courseBooks; 
+DELETE FROM takes;
+DELETE FROM review;
+DELETE FROM authorList;
+DELETE FROM words;
+DELETE FROM CreateDept;
+DELETE FROM updateOrder;
+DELETE FROM Recomendations;
+DELETE FROM History;
+DELETE FROM subcategories;
+DELETE FROM CreateBooks;
+DELETE FROM HandlesAfterNew;
+DELETE FROM handleTicket;
+DELETE FROM tickets;
+DELETE FROM SuperAdmin;
+DELETE FROM CreateCourse;
+DELETE FROM CreateUni;
+DELETE FROM Administrator;
+DELETE FROM CustomerService;
+DELETE FROM teaches;
+DELETE FROM Course;
+DELETE FROM Instructor;
+DELETE FROM OrderItems;
+DELETE FROM cartItems;
+DELETE FROM Orders;
+DELETE FROM Student;
+DELETE FROM Cart;
+DELETE FROM Books;
+DELETE FROM Department;
+DELETE FROM University;
+DELETE FROM Employees;
+
+
